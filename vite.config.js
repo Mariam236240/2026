@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "Mariam236240/2026"  // 🔥 ADD THIS LINE
+  base: "/2026/"  // 🔥 ADD THIS LINE
 });
